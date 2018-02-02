@@ -1,1 +1,3 @@
-class = ["hello"];
+function() {
+    console.log('hi')
+}
